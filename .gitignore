@@ -1,0 +1,2 @@
+*.safetensors
+bertopic_semi_supervised/
