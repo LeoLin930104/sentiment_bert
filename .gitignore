@@ -1,2 +1,3 @@
 *.safetensors
 bertopic_semi_supervised/
+*.DS_Store
